@@ -7,3 +7,4 @@ My name is David Suárez Fuentes and this is my GitHub public profile built from
 
 - 🔭 I’m currently working on products related to AI and specifically in the field of Natural Language Processing
 - 🌱 I am a continous learner and I’m currently learning different topics, from latest trends in DevOps to transfer learning for NLP
+- I also contribute to Opendaylight as a committer in several projects, although I must admit not too much lately :(
